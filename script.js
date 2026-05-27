@@ -1,7 +1,11 @@
 function showMessage(){
 
-  alert("Thanks for visiting my portfolio!");
+    alert(
+        "Welcome to Navya Pullagura's Portfolio 🚀"
+    );
 
 }
 
-console.log("Portfolio Loaded Successfully");
+console.log(
+    "Portfolio Loaded Successfully"
+);
